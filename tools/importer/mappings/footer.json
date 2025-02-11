@@ -1,0 +1,51 @@
+{
+  "url": "https://www.adobe.com/about-adobe.html",
+  "browserOptions": {
+    "width": 1280,
+    "disableJS": false,
+    "adBlocker": true,
+    "gdprBlocker": true,
+    "delay": 0,
+    "screenshot": false
+  },
+  "autoDetect": true,
+  "template": {
+    "raw": "/html[1]/body[1]/div[1]/div[1]/div[1]\n  /html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]\n  /html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]\n  /html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]\n  - /html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[3]/div[1]/div[1]\n  /html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[4]\n  /html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[5]\n  /html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[6]\n  /html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[10]\n  /html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]\n  - /html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]\n  - /html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[11]\n  /html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[12]\n  /html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[13]\n  - /html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[13]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[13]/div[1]/div[1]/div[2]\n  /html[1]/body[1]/div[1]/div[1]/div[2]\n  - /html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/footer[1]/nav[1]/div[1]/ul[1]/li[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/footer[1]/nav[1]/div[1]/ul[1]/li[2]\n  - /html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/footer[1]/nav[1]/div[1]/ul[1]/li[3]",
+    "hash": 1116520867
+  },
+  "pageHeight": 5823,
+  "mapping": [
+    {
+      "id": "footer-1",
+      "path": "/footer",
+      "sections": [
+        {
+          "id": "footer-1-1",
+          "blocks": [
+            {
+              "id": "box-id-218904458",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1240,
+              "height": 60,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/footer[1]/nav[1]/div[1]/ul[1]/li[3]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/footer[1]/nav[1]/div[1]/ul[1]/li[3]",
+                  "xpathWithDetails": "id(\"gnf_2_2\")"
+                }
+              ],
+              "layout": {
+                "numCols": 2,
+                "numRows": 1
+              },
+              "x": 20,
+              "y": 5742,
+              "mapping": "footer",
+              "customBlockName": "aifooter-ery9tp-box-id-218904458"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
