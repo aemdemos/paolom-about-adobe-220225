@@ -1,9 +1,41 @@
 {
-  "originUrl": "https://www.adobe.com",
-  "totalUrls": 1,
+  "originUrl": "https://www.adobe.com/about-adobe.html",
+  "totalUrls": 0,
   "urls": [
     {
       "url": "https://www.adobe.com/about-adobe.html",
+      "source": "NAV"
+    },
+    {
+      "url": "https://www.adobe.com/investor-relations.html",
+      "source": "NAV"
+    },
+    {
+      "url": "https://www.adobe.com/careers.html",
+      "source": "NAV"
+    },
+    {
+      "url": "https://www.adobe.com/events.html",
+      "source": "NAV"
+    },
+    {
+      "url": "https://www.adobe.com/about-adobe/leaders.html",
+      "source": "NAV"
+    },
+    {
+      "url": "https://www.adobe.com/about-adobe/contact.html",
+      "source": "NAV"
+    },
+    {
+      "url": "https://www.adobe.com/trust.html",
+      "source": "NAV"
+    },
+    {
+      "url": "https://www.adobe.com/corporate-responsibility.html",
+      "source": "NAV"
+    },
+    {
+      "url": "https://www.adobe.com/diversity.html",
       "source": "NAV"
     }
   ],
